@@ -1,13 +1,14 @@
 # IITM_NPTEL_CRICKET_HACKATHON
 For everyone who loves CRICKET and fiddling with DATA IIT MADRAS BS Degree Program brings an academic contest - CRICKET and CODING CHALLENGE. Anyone who has elementary knowledge of coding and an interest in Data Science can register and compete.
 
-Competition Link: https://iitm-ipl.web.app/
+Competition Link: https://iitm-ipl.web.app/ <br>
 Leaderboard Link: https://iitm-ipl.web.app/leaderboard.html
 
-Team Members: Gaurav Raul (Data Scientist - Cognext.ai)
-              Jegan Balaji B S (Student - IIT Kanpur)
+Team Members: <br>
+1. Gaurav Raul (Data Scientist - Cognext.ai) <br>
+2. Jegan Balaji B S (Student - IIT Kanpur)
               
-TeamID: TEAM0102239
+TeamID: TEAM0102239 <br>
 Leaderboard Rank: 4
 
 ### ABOUT THE COMPETITION
