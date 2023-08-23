@@ -6,8 +6,7 @@ Leaderboard Link: https://iitm-ipl.web.app/leaderboard.html
 
 Team Members: <br>
 1. Gaurav Raul  <br>
-2. Jegan Balaji B S (Student - IIT Kanpur)
-
+2. Jegan Balaji B S (Student - IIT Kanpur) https://github.com/beyond-multiverse/
               
 TeamID: TEAM0102239 <br>
 Leaderboard Rank: 4
